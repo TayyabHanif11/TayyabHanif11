@@ -1,6 +1,5 @@
 # I'm Tayyab
-![Tayyab Hanif - Aspiring Software Engineer](https://github.com/TayyabHanif11/TayyabHanif11/blob/main/ere.png
-)
+
 
 💻 **Aspiring Software Engineer | Passionate Developer | Future Innovator**
 
