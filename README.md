@@ -1,7 +1,7 @@
 # I'm Tayyab
 
 
-💻 **Aspiring Software Engineer | Passionate Developer | Future Innovator**
+💻 **Passionate Developer | Aspiring Engineer | Learner**
 
 🚀 Building projects, and solving real-world problems through code. I love learning... 
 🌱 Currently exploring IDEs & languages to strengthen my base in coding.  
