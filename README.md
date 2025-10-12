@@ -19,5 +19,6 @@
 ### 📫 Connect With Me
 - GitHub: (https://github.com/TayyabHanif11)
 - Email: tayyabhanifawan2@gmail.com
-- X: x.com/Tayyabhanif65
-- Insta: instagram.com/thetayyabhanif/
+- X: https://www.x.com/Tayyabhanif65
+- Insta: https://www.instagram.com/thetayyabhanif/
+  
