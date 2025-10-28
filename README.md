@@ -1,3 +1,14 @@
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#915EFF;">Tayyab Hanif</span></h1>
+<h3 align="center">💻 Passionate Developer | 🚀 Aspiring Software Engineer | 🌱 Lifelong Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=915EFF&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code...;Building+Impactful+Software...;Learning%2C+Creating%2C+Evolving+Everyday..." alt="Typing SVG" />
+</p>
+
+---
+
+
 # I'm Tayyab
 
 ![Tayyab Hanif - Aspiring Software Engineer](https://github.com/TayyabHanif11/TayyabHanif11/blob/main/Image123.png)
