@@ -17,9 +17,23 @@
 
 ---
 
+### 📊 GitHub Insights
+
+![Tayyab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TayyabHanif11&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabHanif11&layout=compact&theme=tokyonight)
+
+---
+
+
 ### 📫 Connect With Me
 - GitHub: (https://github.com/TayyabHanif11)
 - Email: tayyabhanifawan2@gmail.com
 - X: https://www.x.com/Tayyabhanif65
 - Insta: https://www.instagram.com/thetayyabhanif/
+
+---
   
+### 🌟 Fun Fact
+> “Every great developer you know was once a beginner who refused to give up.”
+
+⭐ Feel free to connect & collaborate! 🚀  
